@@ -12,3 +12,6 @@ While initializing choice a,b , reuslt and n.
 To print the display menu we will simple code print (" The Thing that needs to be Printed ");
 
 Then We will take user input for Choice and Add Switch case for each of the functions that are used and print their results.
+
+Lastly we will define the functions and make them usable.
+
